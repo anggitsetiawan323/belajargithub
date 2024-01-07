@@ -1,3 +1,6 @@
-# belajargithub
-belajar membuat repository
-hari pertama belajar
+<html>
+    <head></head>
+    <body>
+    belajar github
+    </body>
+</html>
